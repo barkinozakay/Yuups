@@ -1,5 +1,6 @@
 # Yuups
 A simple mobile&amp;desktop app written in C# for minimalistic and also addictive game lovers. This project was an interactive project for my Software Development Methodologies course with many contributers.
+
 Game Objective: Initially our player has 3 lifes. To play the game, you must click the space button or touch the screen(desktop/mobile) to keep playing. Each time the player gets a coin, our ghost will get bigger and you'll get 100 points. If the player hits a virus, the player will lose 1 life. If the player loses the control of the game object, the object will fall down and game will over.
 
 # Main Menu
